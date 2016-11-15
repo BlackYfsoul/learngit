@@ -1,2 +1,2 @@
 this is test
-feature1 has not been added 
+feature1 has been added 
